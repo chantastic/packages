@@ -1,7 +1,7 @@
 {
   "name": "surface.css",
-  "version": "0.0.2",
-  "description": "A visual abstraction for theme-able, layerable UI",
+  "version": "0.0.0",
+  "description": "A visual abstraction for theme-able, layerable UI backgrounds",
   "author": "Michael Chan <mijoch@gmail.com>",
   "homepage": "https://github.com/chantastic/packages",
   "license": "MIT",
