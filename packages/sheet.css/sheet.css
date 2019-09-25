@@ -1,27 +1,23 @@
 .sheet {
-  background-color: var(--sheet-0_background-color);
-}
-
-.sheet--depth_1 {
-  background-color: var(--sheet-2_background-color);
+  background-color: var(--sheet-1of1_background-color);
 }
 
 .sheet--depth_2 {
-  background-color: var(--sheet-2_background-color);
+  background-color: var(--sheet-2of2_background-color);
 }
 
 .sheet--depth_2 .sheet {
-  background-color: var(--sheet-1_background-color);
+  background-color: var(--sheet-1of2_background-color);
 }
 
 .sheet--depth_3 {
-  background-color: var(--sheet-2_background-color);
+  background-color: var(--sheet-3of3_background-color);
 }
 
 .sheet--depth_3 .sheet {
-  background-color: var(--sheet-1_background-color);
+  background-color: var(--sheet-2of3_background-color);
 }
 
 .sheet--depth_3 .sheet .sheet {
-  background-color: var(--sheet-0_background-color);
+  background-color: var(--sheet-1of3_background-color);
 }
