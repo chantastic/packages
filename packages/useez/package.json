@@ -1,0 +1,19 @@
+{
+  "name": "useez",
+  "version": "0.0.0",
+  "description": "Tired: Hooks. Wired: Useez. Pronounced \"use-ease\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chantastic/packages.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/packages/issues"
+  },
+  "homepage": "https://github.com/chantastic/packages#readme"
+}
